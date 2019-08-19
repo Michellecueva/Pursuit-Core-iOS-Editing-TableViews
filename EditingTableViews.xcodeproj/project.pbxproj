@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28F2EEEC230A55F500E0FD44 /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F2EEEB230A55F500E0FD44 /* AddItemViewController.swift */; };
 		CD8F80132305F3D300CB87B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8F80122305F3D300CB87B0 /* AppDelegate.swift */; };
 		CD8F80152305F3D300CB87B0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8F80142305F3D300CB87B0 /* ViewController.swift */; };
 		CD8F80182305F3D300CB87B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD8F80162305F3D300CB87B0 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		28F2EEEB230A55F500E0FD44 /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
 		CD8F800F2305F3D300CB87B0 /* EditingTableViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EditingTableViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD8F80122305F3D300CB87B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD8F80142305F3D300CB87B0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				CD8F80142305F3D300CB87B0 /* ViewController.swift */,
 				CD8F80242305F41A00CB87B0 /* ShoppingItem.swift */,
 				CD8F80162305F3D300CB87B0 /* Main.storyboard */,
+				28F2EEEB230A55F500E0FD44 /* AddItemViewController.swift */,
 				CD8F80192305F3DE00CB87B0 /* Assets.xcassets */,
 				CD8F801B2305F3DE00CB87B0 /* LaunchScreen.storyboard */,
 				CD8F801E2305F3DE00CB87B0 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CD8F80252305F41A00CB87B0 /* ShoppingItem.swift in Sources */,
+				28F2EEEC230A55F500E0FD44 /* AddItemViewController.swift in Sources */,
 				CD8F80152305F3D300CB87B0 /* ViewController.swift in Sources */,
 				CD8F80132305F3D300CB87B0 /* AppDelegate.swift in Sources */,
 			);
